@@ -1,0 +1,47 @@
+*{
+    padding: 0 ;
+    margin: 0;
+box-sizing: border-box;
+}
+
+body{                
+    background: url(../images/background.jpg);  
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Segoe UI Light'; 
+   }
+
+
+.input{
+    font-size: 500cm;
+}
+ 
+.font{
+    font-family: 'Cinzel Decorative', cursive;
+  }
+  .font2{
+    font-family: 'Baloo Chettan 2', cursive;
+  font-family: 'Dosis', sans-serif;
+  font-family: 'Epilogue', sans-serif;
+  font-family: 'Grenze Gotisch', cursive;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Lemonada', cursive;
+  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Niconne', cursive;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 1.25rem;
+  }
+  .font3{
+    font-family: 'Baloo Chettan 2', cursive;
+  font-family: 'Dosis', sans-serif;
+  font-family: 'Epilogue', sans-serif;
+  font-family: 'Grenze Gotisch', cursive;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Lemonada', cursive;
+  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Niconne', cursive;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 1.5rem;
+  }
